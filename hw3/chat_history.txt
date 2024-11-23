@@ -1,0 +1,12 @@
+User: Hi!
+Crypto_bot: Hey! Feel free to ask me anything about crypto.
+User: Tell me smth about crypto?
+Crypto_bot: Cryptocurrencies are decentralized digital assets based on blockchain technology.
+User: Ok, what is BTC?
+Crypto_bot: Bitcoin uses blockchain technology to allow peer-to-peer transactions without the need for intermediaries.
+User: Wow, this interesting?
+Crypto_bot: Sorry, I didn't catch that. Can you try asking in another way?
+User: Do you know what NFT is?
+Crypto_bot: NFTs, or non-fungible tokens, are unique digital assets that represent ownership of a specific item or piece of content, verified on a blockchain.
+User: Ok, bye
+Crypto_bot: Bye! Don't forget to check the latest crypto trends.

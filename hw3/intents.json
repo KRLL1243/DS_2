@@ -1,0 +1,265 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening",
+        "How are you?",
+        "What's up?"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What would you like to know about cryptocurrency?",
+        "Hey! Feel free to ask me anything about crypto.",
+        "Hello! Ready to dive into the world of crypto?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "I'm leaving",
+        "Take care"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Feel free to come back with more questions.",
+        "Take care! Wishing you the best on your crypto journey.",
+        "Bye! Don't forget to check the latest crypto trends."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Much appreciated",
+        "Thanks a lot"
+      ],
+      "responses": [
+        "You're welcome! Let me know if you have more questions.",
+        "Happy to help! Feel free to ask anything else.",
+        "My pleasure! Good luck with your crypto adventures.",
+        "You're welcome! I'm here whenever you need assistance."
+      ]
+    },
+    {
+      "tag": "no_answer",
+      "patterns": [
+        "What?",
+        "Huh?",
+        "I don't understand",
+        "Can you repeat that?",
+        "What do you mean?"
+      ],
+      "responses": [
+        "I'm here to help with cryptocurrency topics. Could you rephrase your question?",
+        "Sorry, I didn't catch that. Can you try asking in another way?",
+        "I'm not sure I understand. Could you clarify your question?"
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Can you help me?",
+        "I need help",
+        "Help me with something",
+        "Can you assist?",
+        "What can you do?"
+      ],
+      "responses": [
+        "Of course! I can answer your questions about cryptocurrency, blockchain, trading, and more.",
+        "Sure! I'm here to help with anything crypto-related.",
+        "Absolutely! Feel free to ask me about crypto wallets, mining, trading, or anything else."
+      ]
+    },
+    {
+      "tag": "what_is_crypto",
+      "patterns": [
+        "What is cryptocurrency?",
+        "Explain cryptocurrency",
+        "Tell me about crypto",
+        "What are cryptocurrencies?"
+      ],
+      "responses": [
+        "Cryptocurrency is a type of digital or virtual currency that uses cryptography for security and operates independently of a central authority.",
+        "Cryptocurrencies are decentralized digital assets based on blockchain technology."
+      ]
+    },
+    {
+      "tag": "blockchain",
+      "patterns": [
+        "What is blockchain?",
+        "Explain blockchain technology",
+        "How does blockchain work?"
+      ],
+      "responses": [
+        "Blockchain is a distributed ledger technology that records transactions across many computers in a secure and transparent way.",
+        "A blockchain is a chain of blocks where each block contains data, a timestamp, and a cryptographic hash of the previous block."
+      ]
+    },
+    {
+      "tag": "bitcoin",
+      "patterns": [
+        "What is Bitcoin?",
+        "Tell me about Bitcoin",
+        "How does Bitcoin work?",
+        "Explain BTC"
+      ],
+      "responses": [
+        "Bitcoin is the first decentralized cryptocurrency, created in 2009 by an unknown person or group using the pseudonym Satoshi Nakamoto.",
+        "Bitcoin uses blockchain technology to allow peer-to-peer transactions without the need for intermediaries."
+      ]
+    },
+    {
+      "tag": "ethereum",
+      "patterns": [
+        "What is Ethereum?",
+        "Tell me about ETH",
+        "Explain Ethereum",
+        "How does Ethereum work?"
+      ],
+      "responses": [
+        "Ethereum is a decentralized platform that enables smart contracts and decentralized applications (dApps) to run without any downtime or interference.",
+        "Ethereum's native cryptocurrency is Ether (ETH), and it's widely used for various blockchain-based projects."
+      ]
+    },
+    {
+      "tag": "nft",
+      "patterns": [
+        "What is an NFT?",
+        "Tell me about NFTs",
+        "Explain non-fungible tokens",
+        "How do NFTs work?"
+      ],
+      "responses": [
+        "NFTs, or non-fungible tokens, are unique digital assets that represent ownership of a specific item or piece of content, verified on a blockchain.",
+        "Unlike cryptocurrencies, NFTs are not interchangeable and are often used to represent art, music, videos, and more."
+      ]
+    },
+    {
+      "tag": "mining",
+      "patterns": [
+        "What is crypto mining?",
+        "How does mining work?",
+        "Explain cryptocurrency mining",
+        "What do miners do?"
+      ],
+      "responses": [
+        "Cryptocurrency mining is the process of validating transactions and adding them to the blockchain ledger. Miners are rewarded with newly minted coins.",
+        "Mining involves solving complex mathematical problems to secure the network and confirm transactions."
+      ]
+    },
+    {
+      "tag": "wallets",
+      "patterns": [
+        "What is a crypto wallet?",
+        "Tell me about cryptocurrency wallets",
+        "How do wallets work?",
+        "What are wallets for?"
+      ],
+      "responses": [
+        "A cryptocurrency wallet is a tool that allows you to store, send, and receive digital currencies. They come in different types: hot wallets (online) and cold wallets (offline).",
+        "Wallets provide private keys that grant access to your funds. Without the keys, you cannot access your cryptocurrency."
+      ]
+    },
+    {
+      "tag": "defi",
+      "patterns": [
+        "What is DeFi?",
+        "Tell me about decentralized finance",
+        "Explain DeFi",
+        "What is DeFi used for?"
+      ],
+      "responses": [
+        "DeFi, or decentralized finance, refers to financial applications built on blockchain networks that operate without traditional banks or intermediaries.",
+        "DeFi platforms allow users to lend, borrow, trade, and earn interest on their assets using smart contracts."
+      ]
+    },
+    {
+      "tag": "risks",
+      "patterns": [
+        "What are the risks of cryptocurrency?",
+        "Is crypto risky?",
+        "What are the dangers of crypto?",
+        "Tell me about crypto risks"
+      ],
+      "responses": [
+        "Cryptocurrency investments come with risks such as volatility, lack of regulation, scams, and security breaches.",
+        "Always research thoroughly and consider using secure wallets and platforms to minimize risks."
+      ]
+    },
+    {
+      "tag": "trading",
+      "patterns": [
+        "What is crypto trading?",
+        "How do I trade crypto?",
+        "Explain cryptocurrency trading",
+        "Tell me about trading"
+      ],
+      "responses": [
+        "Crypto trading involves buying and selling cryptocurrencies on exchanges to profit from market fluctuations.",
+        "Traders use various strategies, including day trading, swing trading, and long-term investing."
+      ]
+    },
+    {
+      "tag": "stablecoins",
+      "patterns": [
+        "What is a stablecoin?",
+        "Tell me about stablecoins",
+        "How do stablecoins work?",
+        "Explain stable cryptocurrencies"
+      ],
+      "responses": [
+        "Stablecoins are cryptocurrencies designed to have a stable value, often pegged to a fiat currency like the US dollar.",
+        "Examples of stablecoins include USDT (Tether), USDC, and DAI."
+      ]
+    },
+    {
+      "tag": "ico",
+      "patterns": [
+        "What is an ICO?",
+        "Explain Initial Coin Offerings",
+        "Tell me about ICOs",
+        "How do ICOs work?"
+      ],
+      "responses": [
+        "An ICO, or Initial Coin Offering, is a fundraising method where new cryptocurrencies or tokens are sold to investors in exchange for established cryptocurrencies like Bitcoin or Ethereum.",
+        "ICOs are similar to IPOs in the stock market but are often less regulated."
+      ]
+    },
+    {
+      "tag": "regulation",
+      "patterns": [
+        "Are cryptocurrencies regulated?",
+        "Tell me about crypto regulation",
+        "Is crypto legal?",
+        "How is cryptocurrency regulated?"
+      ],
+      "responses": [
+        "Cryptocurrency regulation varies by country. Some nations embrace it, while others restrict or ban its use.",
+        "It's essential to check the legal status of cryptocurrencies in your region before investing or trading."
+      ]
+    },
+    {
+      "tag": "future",
+      "patterns": [
+        "What is the future of cryptocurrency?",
+        "Tell me about the future of crypto",
+        "How will crypto evolve?",
+        "What does the future hold for crypto?"
+      ],
+      "responses": [
+        "The future of cryptocurrency includes wider adoption, regulatory clarity, and innovations like decentralized finance and Web3 applications.",
+        "Cryptocurrencies are expected to play a key role in the evolution of financial systems globally."
+      ]
+    }
+  ]
+}
