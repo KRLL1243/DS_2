@@ -3,6 +3,10 @@
 ## Dataset
 [Click here](https://www.kaggle.com/datasets/suyashdamle/cyclegan?select=facades)
 
+## Example of images
+<img src="/hw4/implementations/cyclegan/example_A.png" width="256" height="256"/>
+<img src="/hw4/implementations/cyclegan/example_B.png" width="256" height="256"/>
+
 ## Сommand
 ```
 python cyclegan.py --dataset_name facades --n_epochs 50 --decay_epoch 25 --checkpoint_interval 50
